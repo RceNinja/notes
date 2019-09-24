@@ -40,8 +40,8 @@ It depends on you to install the whole SDK or just copy the header files form an
 
 
 ## Start the MSYS2 environment :
-
-![msys_menu](images/msys_menu.PNG)
+<p align="left"><img src="images/msys_menu.png" width="auto" height="auto"></p>
+<!-- ![msys_menu](images/msys_menu.PNG) -->
 
 ## Install the MSYS/MinGW 64-bit required packages:
 ```bash
